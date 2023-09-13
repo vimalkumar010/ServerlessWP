@@ -7,7 +7,7 @@ wget https://wordpress.org/latest.zip
 unzip latest.zip
 cp ../wp/wp-config.php wordpress/
 mkdir wordpress/wp-content/mu-plugins
-mkdir wordpres/wp-content/uploads
+mkdir wordpress/wp-content/uploads
 cp ../wp/wp-content/mu-plugins/serverlesswp.php wordpress/wp-content/mu-plugins/
 cp ../wp/wp_content/uploads/favicon.ico wordpress/wp-content/uploads/
 cp ../wp/wp_content/uploads/vimzone-logo.jpeg wordpress/wp-content/uploads/
